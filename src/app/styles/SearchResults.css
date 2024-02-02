@@ -1,0 +1,24 @@
+.search-results-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-results {
+  width: 90%;
+  max-width: 1200px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px; /* Add some spacing between pagination and search results */
+}
+.pagination span {
+  padding: 7px;
+}
+
+.pagination.top {
+  margin-bottom: 20px; /* Add space at the top */
+}

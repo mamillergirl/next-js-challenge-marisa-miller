@@ -1,7 +1,6 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
@@ -107,6 +106,20 @@
 
 .logo {
   position: relative;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  max-width: 50%;
+}
+
+
+.results {
+  margin: 0 auto;
+}
+.bookResult {
+  padding-bottom: 3%;
 }
 /* Enable hover only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
