@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Open Library Search Challenge Entry
 
-## Getting Started
+## Overview
 
-First, run the development server:
+Welcome to my submission for the Open Library Search Challenge! In this project, I've created a Next.js application that fulfills all the objectives outlined in the challenge requirements. Despite being new to Next.js, I successfully implemented features such as book search functionality, displaying search results, detailed book view, pagination, and ensured responsiveness for both desktop and mobile devices. The application is designed to be intuitive, responsive, and user-friendly.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Search Functionality**: Implemented a search feature using the Open Library Search API.
+- **List Results**: Displayed search results with relevant information about the books.
+- **Detailed View**: Enabled users to view detailed information about a book by selecting it from the search results.
+- **Pagination**: Implemented pagination for the search results to improve user experience.
+- **Responsiveness**: Ensured the application works well on both desktop and mobile devices.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Live Demo
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+You can view the live demo of the application [here](https://next-js-challenge-marisa-miller.vercel.app/)
 
-## Learn More
+## Installation and Usage
 
-To learn more about Next.js, take a look at the following resources:
+To install and run the project locally, follow these steps:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the repository
+2. Navigate to the project directory
+3. Install dependencies
+4. Run the development server
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Technologies Used
 
-## Deploy on Vercel
+- Next.js
+- React
+- Open Library API
+- CSS
+- JavaScript
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Feedback
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+I welcome any feedback or suggestions for improvement. Feel free to reach out to me with your thoughts.
+
+Thank you for considering my entry for the Open Library Search Challenge!
